@@ -8,9 +8,9 @@ The key features include:
 
 - An intuitive user interface for inputting parameters like the current stock price, strike price, risk-free rate, time to expiration, and volatility.
   
--A Python-powered backend that calculates intermediate values (d1, d2, N(d1), N(d2)) and option prices using the Black-Scholes formula.
+- A Python-powered backend that calculates intermediate values (d1, d2, N(d1), N(d2)) and option prices using the Black-Scholes formula.
 
--Displaying calculated option prices dynamically on the frontend.
+- Displaying calculated option prices dynamically on the frontend.
 
 While the application handles basic validation of input types and ranges, further improvements could enhance robustness against edge cases or invalid data. Nevertheless, this project serves as a foundational tool for understanding and applying the Black-Scholes model, bridging financial theory with practical implementation in a user-friendly and visually appealing way.
  </p>
